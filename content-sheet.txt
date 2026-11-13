@@ -1,0 +1,69 @@
+PAWS & WHISKERS: CONTENT FOR THE "MEET BISCUIT" PAGE
+=====================================================
+
+Everything that goes on the page, in order from the top. Copy the words into index.html and choose the right
+element for each part. The words are yours to change, but keep every part.
+
+
+THE BROWSER TAB
+---------------
+Meet Biscuit | Paws & Whiskers
+
+
+THE TOP OF THE PAGE
+-------------------
+Site name:  Paws & Whiskers
+
+Menu links (the pages don't exist yet; that's fine for this exercise):
+    Home            ->  index.html
+    All pets        ->  pets.html
+    How to adopt    ->  adopt.html
+    Volunteer       ->  volunteer.html
+
+
+THE MAIN CONTENT
+----------------
+Page title (the one main heading):
+    Meet Biscuit
+
+Picture:
+    images/biscuit.svg
+    What it shows: Biscuit, a brown and white beagle, sitting with his ears up and his tongue out.
+
+Biscuit's story (a heading, then two paragraphs):
+    Heading:  Biscuit's story
+
+    Biscuit came to Paws & Whiskers when his family moved to an apartment that doesn't allow dogs.
+    He is three years old, house-trained, and walks well on a leash.
+
+    He knows sit, stay and shake, howls along when someone sings, and will trade almost anything
+    for a slice of apple. He would love a home with a yard and someone who likes long walks.
+
+Fast facts (a heading, then a list):
+    Heading:  Fast facts
+
+    Age: 3 years
+    Breed: beagle
+    Weight: 24 pounds
+    Good with kids: yes
+    Good with cats: still learning
+    Adoption fee: $150 (covers his shots and a microchip)
+
+Other pets you might like (a heading, then two cards; each card is its own element with class="pet-card"):
+    Heading:  Other pets you might like
+
+    Card 1
+        Name:     Pepper
+        Picture:  images/pepper.svg  (a black cat curled up in a patch of sunlight)
+        Text:     A two-year-old cat who sleeps in sunbeams and chases paper balls.
+
+    Card 2
+        Name:     Clover
+        Picture:  images/clover.svg  (a small gray rabbit with floppy ears, holding a sprig of parsley)
+        Text:     A one-year-old rabbit who will do almost anything for parsley.
+
+
+THE BOTTOM OF THE PAGE
+----------------------
+Paws & Whiskers, 412 Willow Lane, Riverside
+Open Tuesday to Sunday, 10 a.m. to 6 p.m.

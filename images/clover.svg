@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <!-- A drawing of Clover the rabbit, standing in for a photo. -->
+  <rect width="400" height="300" fill="#dbeaf7"/>
+  <ellipse cx="200" cy="215" rx="95" ry="70" fill="#9a9a9a"/>
+  <circle cx="200" cy="140" r="55" fill="#a8a8a8"/>
+  <ellipse cx="140" cy="150" rx="18" ry="60" fill="#8c8c8c" transform="rotate(25 140 150)"/>
+  <ellipse cx="260" cy="150" rx="18" ry="60" fill="#8c8c8c" transform="rotate(-25 260 150)"/>
+  <circle cx="180" cy="130" r="7" fill="#1e1e1e"/>
+  <circle cx="220" cy="130" r="7" fill="#1e1e1e"/>
+  <ellipse cx="200" cy="155" rx="8" ry="6" fill="#e89aa8"/>
+  <path d="M200 175 l40 45" stroke="#3f8f3a" stroke-width="5"/>
+  <circle cx="245" cy="225" r="14" fill="#4fae46"/>
+  <circle cx="232" cy="238" r="11" fill="#4fae46"/>
+</svg>
